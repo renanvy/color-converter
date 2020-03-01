@@ -1,4 +1,4 @@
-# Convert colors from RGB to Hex and Hex to RGB
+# API to convert colors from RGB to Hex and Hex to RGB
 
 Color converter is an API that can translate from RGB to hexadecimal and hexadecimal to RGB
 
