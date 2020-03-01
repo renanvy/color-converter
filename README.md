@@ -4,13 +4,21 @@ Color converter is an API that can translate from RGB to hexadecimal and hexadec
 
 ## Installing and running
 
-* NodeJS # https://nodejs.org/en/
-* Yarn # https://classic.yarnpkg.com/en/docs/install
+Install NodeJS
+```sh
+https://nodejs.org/en/
+```
+
+Install Yarn
+```sh
+https://classic.yarnpkg.com/en/docs/install
+```
 
 Clone project
 ```sh
 git clone git@github.com:renanvy/color-converter.git
 ```
+
 Install dependencies
 ```ssh
 yarn install
