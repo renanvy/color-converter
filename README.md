@@ -26,12 +26,17 @@ yarn install
 
 Run server
 ```ssh
-npm app/server.js
+node app/server.js
 ```
 
 Run tests
 ```ssh
 yarn test
+```
+
+Run eslint
+```sh
+npx eslint
 ```
 
 Available endpoints
